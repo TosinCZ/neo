@@ -1,7 +1,5 @@
 # neo
 
-# RaftKV
-
 A distributed key-value database being built from scratch in Go, implementing
 the Raft consensus algorithm, a custom storage engine, multi-node
 replication, and automatic leader failover.
